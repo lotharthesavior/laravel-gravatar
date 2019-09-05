@@ -4,6 +4,7 @@
    "keywords":[
       "laravel",
       "laravel5",
+      "laravel6",
       "gravatar"
    ],
    "homepage":"https://github.com/thomaswelton/laravel-gravatar",
@@ -22,7 +23,7 @@
    ],
    "require":{
       "php":">=5.4.0",
-      "illuminate/support":"~5.0",
+      "illuminate/support":"~6.0",
       "thomaswelton/gravatarlib":"0.1.x"
    },
    "require-dev":{
